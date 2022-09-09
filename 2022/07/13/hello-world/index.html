@@ -228,8 +228,10 @@
         
     | <i class="far fa-eye fa-fw post-meta-icon"></i>
     
+        <span id="/2022/07/13/hello-world/" class="leancloud_visitors" data-flag-title="Hello World">
         <span class="post-meta-label">阅读量:</span>
-        <span id="Discuss-Visitors">0</span>
+        <span class="leancloud-visitors-count">0</span>
+        </span>
     
 
       </div>
@@ -302,19 +304,21 @@
             <span>评论</span>
         </div>
         
-            <div id="Discuss-Comments"></div>
+            <div id="vcomments"></div>
 <script>
-  function LoadDiscuss() {
-    mengd.getScript('https://unpkg.com/discuss@latest/dist/discuss.js', function() {
-      Discuss.init(Object.assign({
-        el: '#Discuss-Comments',
-        serverURLs: 'https://discuss-vercel-rootoy.vercel.app/',
-      } , {"source":"https://unpkg.com/discuss@latest/dist/discuss.js","serverURLs":"https://discuss-vercel-rootoy.vercel.app/"}))
-    })
-  }
-  LoadDiscuss()
+function LoadValine() {
+    mengd.getScript("https://unpkg.com/valine/dist/Valine.min.js", function () {
+        new Valine(Object.assign({
+            el: '#vcomments',
+            path: window.location.pathname,
+            appId: 'eJpQN87RnJQWN3SGuzoT0AGH-gzGzoHsz',
+            appKey: 'o7ilj4dXicliVwx3DnT5SVIc',
+            visitor: true
+        }, {"source":"https://unpkg.com/valine/dist/Valine.min.js","appid":"eJpQN87RnJQWN3SGuzoT0AGH-gzGzoHsz","appkey":"o7ilj4dXicliVwx3DnT5SVIc"}))
+    });
+}
+LoadValine()
 </script>
-
         
     </div>
 

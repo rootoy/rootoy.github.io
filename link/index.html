@@ -299,19 +299,21 @@
             <span>评论</span>
         </div>
         
-            <div id="Discuss-Comments"></div>
+            <div id="vcomments"></div>
 <script>
-  function LoadDiscuss() {
-    mengd.getScript('https://unpkg.com/discuss@latest/dist/discuss.js', function() {
-      Discuss.init(Object.assign({
-        el: '#Discuss-Comments',
-        serverURLs: 'https://discuss-vercel-rootoy.vercel.app/',
-      } , {"source":"https://unpkg.com/discuss@latest/dist/discuss.js","serverURLs":"https://discuss-vercel-rootoy.vercel.app/"}))
-    })
-  }
-  LoadDiscuss()
+function LoadValine() {
+    mengd.getScript("https://unpkg.com/valine/dist/Valine.min.js", function () {
+        new Valine(Object.assign({
+            el: '#vcomments',
+            path: window.location.pathname,
+            appId: 'eJpQN87RnJQWN3SGuzoT0AGH-gzGzoHsz',
+            appKey: 'o7ilj4dXicliVwx3DnT5SVIc',
+            visitor: true
+        }, {"source":"https://unpkg.com/valine/dist/Valine.min.js","appid":"eJpQN87RnJQWN3SGuzoT0AGH-gzGzoHsz","appkey":"o7ilj4dXicliVwx3DnT5SVIc"}))
+    });
+}
+LoadValine()
 </script>
-
         
     </div>
 
