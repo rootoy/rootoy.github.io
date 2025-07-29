@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>他山之岛</title>
+  
+  <subtitle>幸运草博客</subtitle>
+  <link href="http://rootoy.github.io/rss.xml" rel="self"/>
+  
+  <link href="http://rootoy.github.io/"/>
+  <updated>2025-07-27T07:52:57.115Z</updated>
+  <id>http://rootoy.github.io/</id>
+  
+  <author>
+    <name>CLOvER</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>优化思想：在权衡中寻找平衡的智慧</title>
+    <link href="http://rootoy.github.io/2025/07/27/yh/"/>
+    <id>http://rootoy.github.io/2025/07/27/yh/</id>
+    <published>2025-07-27T06:52:19.000Z</published>
+    <updated>2025-07-27T07:52:57.115Z</updated>
+    
+    
+    <summary type="html">从“田忌赛马”的策略博弈到现代企业的资源调配，从个人时间管理到人工智能的算法迭代，优化思想始终贯穿于人类实践的各个维度。它并非简单的“追求极致”，而是在有限条件下，通过理性分析与动态调整，实现目标与成本、效率与公平、短期收益与长期价值的平衡。这种智慧，既是解决问题的方法论，更是一种审视世界的思维方式。</summary>
+    
+    
+    
+    <category term="哲学" scheme="http://rootoy.github.io/categories/%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="思想方法" scheme="http://rootoy.github.io/tags/%E6%80%9D%E6%83%B3%E6%96%B9%E6%B3%95/"/>
+    
+    <category term="智慧" scheme="http://rootoy.github.io/tags/%E6%99%BA%E6%85%A7/"/>
+    
+    <category term="优化" scheme="http://rootoy.github.io/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>古法养鱼：水活鱼欢里的东方智慧</title>
+    <link href="http://rootoy.github.io/2025/07/27/yy/"/>
+    <id>http://rootoy.github.io/2025/07/27/yy/</id>
+    <published>2025-07-27T06:51:58.000Z</published>
+    <updated>2025-07-27T07:53:10.742Z</updated>
+    
+    
+    <summary type="html">在玻璃鱼缸与智能过滤系统普及的今天，古法养鱼如同一股清流，承载着古人“天人合一”的生活哲学。它不依赖精密设备，仅凭对水、鱼、草、器的微妙调和，便能让一缸活水生机盎然，堪称中式生活美学的微观缩影。</summary>
+    
+    
+    
+    <category term="园艺学" scheme="http://rootoy.github.io/categories/%E5%9B%AD%E8%89%BA%E5%AD%A6/"/>
+    
+    
+    <category term="园艺设计" scheme="http://rootoy.github.io/tags/%E5%9B%AD%E8%89%BA%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="古法" scheme="http://rootoy.github.io/tags/%E5%8F%A4%E6%B3%95/"/>
+    
+    <category term="鱼" scheme="http://rootoy.github.io/tags/%E9%B1%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深度学习的神经网络算法分析与设计</title>
+    <link href="http://rootoy.github.io/2025/07/27/sdxx/"/>
+    <id>http://rootoy.github.io/2025/07/27/sdxx/</id>
+    <published>2025-07-27T06:51:37.000Z</published>
+    <updated>2025-07-27T07:52:35.992Z</updated>
+    
+    
+    <summary type="html">深度学习作为人工智能领域的核心技术，其核心驱动力源于神经网络算法的不断迭代与创新。神经网络以模拟人脑神经元连接方式为灵感，通过多层非线性变换实现对复杂数据的特征学习与模式拟合。本文将从算法原理、关键设计要素及典型应用场景三个维度，对神经网络算法进行系统分析。</summary>
+    
+    
+    
+    <category term="计算机科学" scheme="http://rootoy.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
+    
+    
+    <category term="人工智能" scheme="http://rootoy.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="算法" scheme="http://rootoy.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="编程" scheme="http://rootoy.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>槛外孤影与尘外游客</title>
+    <link href="http://rootoy.github.io/2025/07/27/hlm/"/>
+    <id>http://rootoy.github.io/2025/07/27/hlm/</id>
+    <published>2025-07-27T06:51:21.000Z</published>
+    <updated>2025-07-27T07:52:21.739Z</updated>
+    
+    
+    <summary type="html">《红楼梦》的世界里，众生皆在红尘中翻滚，为情所困，为欲所缠，为命运的丝线牵牵绊绊。然而在这“大梦一场”的底色上，却站着几位勘破迷障的身影——她们或他，以不同的姿态悬于俗世边缘，构成了书中最清冷也最醒目的超脱者群像</summary>
+    
+    
+    
+    <category term="文学" scheme="http://rootoy.github.io/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="红楼梦" scheme="http://rootoy.github.io/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/"/>
+    
+    <category term="文学赏析" scheme="http://rootoy.github.io/tags/%E6%96%87%E5%AD%A6%E8%B5%8F%E6%9E%90/"/>
+    
+    <category term="感悟" scheme="http://rootoy.github.io/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://rootoy.github.io/2025/05/30/hello-world/"/>
+    <id>http://rootoy.github.io/2025/05/30/hello-world/</id>
+    <published>2025-05-30T01:48:07.106Z</published>
+    <updated>2025-07-27T07:49:09.197Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
