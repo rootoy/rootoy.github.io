@@ -3,11 +3,11 @@
   <title>他山之岛</title>
   
   <subtitle>幸运草博客</subtitle>
-  <link href="http://rootoy.github.io/rss.xml" rel="self"/>
+  <link href="https://rootoy.github.io/rss.xml" rel="self"/>
   
-  <link href="http://rootoy.github.io/"/>
+  <link href="https://rootoy.github.io/"/>
   <updated>2025-07-27T07:52:57.115Z</updated>
-  <id>http://rootoy.github.io/</id>
+  <id>https://rootoy.github.io/</id>
   
   <author>
     <name>CLOvER</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>优化思想：在权衡中寻找平衡的智慧</title>
-    <link href="http://rootoy.github.io/posts/yh.html"/>
-    <id>http://rootoy.github.io/posts/yh.html</id>
+    <link href="https://rootoy.github.io/posts/yh.html"/>
+    <id>https://rootoy.github.io/posts/yh.html</id>
     <published>2025-07-27T06:52:19.000Z</published>
     <updated>2025-07-27T07:52:57.115Z</updated>
     
@@ -28,21 +28,21 @@
     
     
     
-    <category term="哲学" scheme="http://rootoy.github.io/categories/%E5%93%B2%E5%AD%A6/"/>
+    <category term="哲学" scheme="https://rootoy.github.io/categories/%E5%93%B2%E5%AD%A6/"/>
     
     
-    <category term="思想方法" scheme="http://rootoy.github.io/tags/%E6%80%9D%E6%83%B3%E6%96%B9%E6%B3%95/"/>
+    <category term="思想方法" scheme="https://rootoy.github.io/tags/%E6%80%9D%E6%83%B3%E6%96%B9%E6%B3%95/"/>
     
-    <category term="智慧" scheme="http://rootoy.github.io/tags/%E6%99%BA%E6%85%A7/"/>
+    <category term="智慧" scheme="https://rootoy.github.io/tags/%E6%99%BA%E6%85%A7/"/>
     
-    <category term="优化" scheme="http://rootoy.github.io/tags/%E4%BC%98%E5%8C%96/"/>
+    <category term="优化" scheme="https://rootoy.github.io/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>古法养鱼：水活鱼欢里的东方智慧</title>
-    <link href="http://rootoy.github.io/posts/yy.html"/>
-    <id>http://rootoy.github.io/posts/yy.html</id>
+    <link href="https://rootoy.github.io/posts/yy.html"/>
+    <id>https://rootoy.github.io/posts/yy.html</id>
     <published>2025-07-27T06:51:58.000Z</published>
     <updated>2025-07-27T07:53:10.742Z</updated>
     
@@ -51,21 +51,21 @@
     
     
     
-    <category term="园艺学" scheme="http://rootoy.github.io/categories/%E5%9B%AD%E8%89%BA%E5%AD%A6/"/>
+    <category term="园艺学" scheme="https://rootoy.github.io/categories/%E5%9B%AD%E8%89%BA%E5%AD%A6/"/>
     
     
-    <category term="园艺设计" scheme="http://rootoy.github.io/tags/%E5%9B%AD%E8%89%BA%E8%AE%BE%E8%AE%A1/"/>
+    <category term="园艺设计" scheme="https://rootoy.github.io/tags/%E5%9B%AD%E8%89%BA%E8%AE%BE%E8%AE%A1/"/>
     
-    <category term="古法" scheme="http://rootoy.github.io/tags/%E5%8F%A4%E6%B3%95/"/>
+    <category term="古法" scheme="https://rootoy.github.io/tags/%E5%8F%A4%E6%B3%95/"/>
     
-    <category term="鱼" scheme="http://rootoy.github.io/tags/%E9%B1%BC/"/>
+    <category term="鱼" scheme="https://rootoy.github.io/tags/%E9%B1%BC/"/>
     
   </entry>
   
   <entry>
     <title>深度学习的神经网络算法分析与设计</title>
-    <link href="http://rootoy.github.io/posts/sdxx.html"/>
-    <id>http://rootoy.github.io/posts/sdxx.html</id>
+    <link href="https://rootoy.github.io/posts/sdxx.html"/>
+    <id>https://rootoy.github.io/posts/sdxx.html</id>
     <published>2025-07-27T06:51:37.000Z</published>
     <updated>2025-07-27T07:52:35.992Z</updated>
     
@@ -74,21 +74,21 @@
     
     
     
-    <category term="计算机科学" scheme="http://rootoy.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
+    <category term="计算机科学" scheme="https://rootoy.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
     
     
-    <category term="人工智能" scheme="http://rootoy.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://rootoy.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="算法" scheme="http://rootoy.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://rootoy.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="编程" scheme="http://rootoy.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    <category term="编程" scheme="https://rootoy.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://rootoy.github.io/posts/hello-world.html"/>
-    <id>http://rootoy.github.io/posts/hello-world.html</id>
+    <link href="https://rootoy.github.io/posts/hello-world.html"/>
+    <id>https://rootoy.github.io/posts/hello-world.html</id>
     <published>2025-05-30T01:48:07.106Z</published>
     <updated>2025-07-29T10:49:51.104Z</updated>
     
